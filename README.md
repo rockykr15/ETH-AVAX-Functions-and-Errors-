@@ -25,4 +25,4 @@ This SmartContract provides the following functions:
 * In the divide() function, if the _divisor is zero, it will revert the transaction with a custom error message.
 
 # Video Walkthrough
-### www.google.com
+### * https://www.loom.com/share/04edb8ed51f044bbbf3ec1a9e785c986
